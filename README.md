@@ -21,3 +21,6 @@ _**NOTE:** This assignment [README](README.md) is _intentionally_ blank. It is p
                                                                                                                       
 ```
 Art acknowledgement: [taag](http://patorjk.com/software/taag/)
+
+*How the sensor works*
+The soil sensor measures moisture by finding the resistance of the soil from a change in voltage. It sends a signal out which is the voltage difference from the burst sent out by the microbit initially.  
